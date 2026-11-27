@@ -69,3 +69,55 @@ Leetcode/
 ⭐ This repository is a continuous record of my learning journey. More problems and solutions will be added as I progress.
 
 **Keep Learning. Keep Solving. Keep Growing.**
+
+<!---LeetHub Summary Start-->
+## LeetHub Summary
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| 139 | 83 | 49 | 7 |
+
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 1 days | 16 days | 77 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-11-08 | 2 |
+| 2026-11-09 | 1 |
+| 2026-11-10 | 2 |
+| 2026-11-11 | 1 |
+| 2026-11-12 | 1 |
+| 2026-11-13 | 1 |
+| 2026-11-15 | 1 |
+| 2026-11-16 | 3 |
+| 2026-11-18 | 1 |
+| 2026-11-19 | 5 |
+| 2026-11-20 | 1 |
+| 2026-11-21 | 1 |
+| 2026-11-22 | 3 |
+| 2026-11-27 | 1 |
+
+## Top Tags
+
+| Tag | Problems | Coverage |
+| --- | ---: | ---: |
+| String | 66 | 47% |
+| Array | 48 | 35% |
+| Two Pointers | 31 | 22% |
+| Hash Table | 30 | 22% |
+| Sorting | 25 | 18% |
+| Math | 22 | 16% |
+| Linked List | 17 | 12% |
+| Binary Search | 11 | 8% |
+| Dynamic Programming | 11 | 8% |
+| Greedy | 11 | 8% |
+
+## Topics
+
+| Topic | Problems |
+| --- | ---: |
+| [Database](Topics/database/) | 1 |
+<!---LeetHub Summary End-->
